@@ -37,15 +37,15 @@ A tesztelés kontextustól függ.
 
 
 #### ✅ Mik a tesztelési típusok, és mi a különbség köztük?
-Fukcionális tesztelés
-Nem-funkcionális tesztelés
-regressziós tesztelés
-Exploratory tesztelés
-Automatizált tesztelés
-Manuális tesztelés
+``` Fukcionális tesztelés
+    Nem-funkcionális tesztelés
+    regressziós tesztelés
+    Exploratory tesztelés
+    Automatizált tesztelés
+    Manuális tesztelés
 
-A funkcionális tesztelés a szoftver működésére összpontosít, míg a nem-funkcionális tesztelés a működés minőségi jellemzőit vizsgálja; a regresszió a módosítások hatásait ellenőrzi, az exploratory és manuális tesztelés kevésbé strukturált, míg az automatizált szkriptelt és ismételhető.
-
+    A funkcionális tesztelés a szoftver működésére összpontosít, míg a nem-funkcionális tesztelés a működés minőségi jellemzőit vizsgálja; a regresszió a módosítások hatásait ellenőrzi, az exploratory és manuális tesztelés kevésbé strukturált, míg az automatizált szkriptelt és ismételhető.
+```
 
 #### ✅ Mi a különbség a fehér doboz, szürke doboz és fekete doboz tesztelés között?
     Fehér doboz tesztelés: A belső kódstruktúra és logika ismeretében történik, és a tesztelő hozzáfér a forráskódhoz.
